@@ -48,6 +48,9 @@ This may take several minutes::
 yarn install
 ============
 
+.. important::
+   Make sure you have version 8 (LTS) of Node.js installed.
+
 Go to the `Build` folder of your TYPO3 install root directory.
 Install all dependencies with `yarn install`.
 Wait for the the end of the install progress.
